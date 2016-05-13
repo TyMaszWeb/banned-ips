@@ -1,6 +1,9 @@
 37.45.42.34  # scanning popular services | Beltelecom | Belarus
+46.181.181.235  # scanning popular services | E-Light-Telecom | Russia
 91.196.50.33  # scanning popular services | EuroNet s.c. | Poland
 185.25.148.240  # scanning popular services | NetDC | Poland
 185.25.151.159  # scanning popular services | NetDC | Poland
+188.0.236.138  # scanning popular services | Sicres | Moldova
 194.28.112.50  # scanning popular services | Hostmaster | Netherlands
 194.28.115.232  # scanning popular services | Hostmaster | Netherlands
+207.244.76.204 # scanning popular services | Leaseweb | USA
