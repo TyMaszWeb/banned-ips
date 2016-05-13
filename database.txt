@@ -1,0 +1,6 @@
+37.45.42.34  # scanning popular services | Beltelecom | Belarus
+91.196.50.33  # scanning popular services | EuroNet s.c. | Poland
+185.25.148.240  # scanning popular services | NetDC | Poland
+185.25.151.159  # scanning popular services | NetDC | Poland
+194.28.112.50  # scanning popular services | Hostmaster | Netherlands
+194.28.115.232  # scanning popular services | Hostmaster | Netherlands
