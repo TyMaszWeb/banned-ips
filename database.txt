@@ -8,4 +8,5 @@
 194.28.112.50  # scanning popular services | Hostmaster | Netherlands
 194.28.115.232  # scanning popular services | Hostmaster | Netherlands
 207.244.76.204  # scanning popular services | Leaseweb | USA
+208.67.1.229  # scanning popular services | Datashack | USA
 220.167.100.13  # scanning popular services | Chinanet | China
