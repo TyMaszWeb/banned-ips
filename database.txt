@@ -2,6 +2,8 @@
 46.181.181.235  # scanning popular services | E-Light-Telecom | Russia
 62.210.152.87  # scanning popular services | Paris Online S.a.s. | France
 91.196.50.33  # scanning popular services | EuroNet s.c. | Poland
+148.251.21.227  # abusing HTTP server | Hetzner Online | Germany
+148.251.54.44  # abusing HTTP server | Hetzner Online | Germany
 185.25.148.240  # scanning popular services | NetDC | Poland
 185.25.151.159  # scanning popular services | NetDC | Poland
 188.0.236.138  # scanning popular services | Sicres | Moldova
