@@ -11,6 +11,7 @@
 185.49.14.190  # scanning popular services | Witryna.pl | Poland
 188.0.236.119  # scanning popular services | Sicres | Moldova
 188.0.236.126  # scanning popular services | Sicres | Moldova
+188.0.236.134  # scanning popular services | Sicres | Moldova
 188.0.236.138  # scanning popular services | Sicres | Moldova
 188.138.33.79  # scanning popular services | Host Europe GmbH | Germany
 194.28.112.50  # scanning popular services | Hostmaster | Netherlands
