@@ -1,5 +1,6 @@
 37.45.42.34  # scanning popular services | Beltelecom | Belarus
 46.181.181.235  # scanning popular services | E-Light-Telecom | Russia
+58.218.213.251  # scanning popular services | Chinanet | China
 62.210.152.87  # scanning popular services | Paris Online S.a.s. | France
 91.196.50.33  # scanning popular services | EuroNet s.c. | Poland
 94.102.58.3  # scanning popular services | Quasi Networks LTD | Seychelles
