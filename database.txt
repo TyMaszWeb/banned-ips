@@ -3,6 +3,7 @@
 58.218.213.251  # scanning popular services | Chinanet | China
 62.210.152.87  # scanning popular services | Paris Online S.a.s. | France
 91.196.50.33  # scanning popular services | EuroNet s.c. | Poland
+92.150.245.81  # scanning popular services | France Telecom S.a. | France
 94.102.58.3  # scanning popular services | Quasi Networks LTD | Seychelles
 148.251.21.227  # abusing HTTP server | Hetzner Online | Germany
 148.251.54.44  # abusing HTTP server | Hetzner Online | Germany
@@ -10,6 +11,7 @@
 185.25.151.159  # scanning popular services | NetDC | Poland
 185.40.4.41  # scanning popular services | Mediaserviceplus Ltd | Russia
 185.49.14.190  # scanning popular services | Witryna.pl | Poland
+185.159.36.11  # abusing HTTP server | Phoenix Llc | Russia
 188.0.236.119  # scanning popular services | Sicres | Moldova
 188.0.236.126  # scanning popular services | Sicres | Moldova
 188.0.236.134  # scanning popular services | Sicres | Moldova
