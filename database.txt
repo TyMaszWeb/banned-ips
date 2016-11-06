@@ -1,4 +1,5 @@
 37.45.42.34  # scanning popular services | Beltelecom | Belarus
+40.115.19.252  # scanning popular services | Microsoft Corporation | Ireland
 46.181.181.235  # scanning popular services | E-Light-Telecom | Russia
 58.218.213.251  # scanning popular services | Chinanet | China
 62.210.152.87  # scanning popular services | Paris Online S.a.s. | France
